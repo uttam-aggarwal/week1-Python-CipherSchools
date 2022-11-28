@@ -1,5 +1,0 @@
-#name= input("enter your name: ")
-# age = input("enter you age: ") 
-name, age= input("enter your name and age1 ").split(",")
-print(name)
-print(age)
